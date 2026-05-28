@@ -48,7 +48,7 @@
       "id": 4,
       "name": "ВИКТОРИЯ",
       "description": "Ближайшая доставка сегодня 17:00-19:00",
-      "Url": "https://www.victoria.ru"
+      "Url": "https://kuper.ru/victoria?sid=231"
     }
   ]
 }
